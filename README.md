@@ -45,15 +45,15 @@ Graduate Research Assistant @ Seattle University · Springer LNCS & IEEE Publish
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dharanipriyar24&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanipriyar24&layout=compact&theme=default&hide_border=true&langs_count=8" width="100%" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharanipriyar24&theme=default&hide_border=true" width="100%" />
 
 ---
 
@@ -61,11 +61,11 @@ Graduate Research Assistant @ Seattle University · Springer LNCS & IEEE Publish
 
 | Repo | What it does | Stack |
 |------|-------------|-------|
-| [agentic-data-pipeline](https://github.com/YOUR_USERNAME/agentic-data-pipeline) | End-to-end agentic pipeline — Bedrock + LangChain + MCP with metadata contracts for AI agents | `Bedrock` `LangChain` `Airflow` `MCP` |
-| [realtime-streaming-pipeline](https://github.com/YOUR_USERNAME/realtime-streaming-pipeline) | Kafka + Spark Streaming → Snowflake with Grafana monitoring and schema registry | `Kafka` `PySpark` `Snowflake` `Docker` |
-| [biomedical-risk-pipeline](https://github.com/YOUR_USERNAME/biomedical-risk-pipeline) | RNN/CNN risk prediction on biomedical data with SMOTE — trained on AWS EC2 + Jetstream2 HPC | `PyTorch` `SMOTE` `AWS EC2` |
-| [lakehouse-dbt-pipeline](https://github.com/YOUR_USERNAME/lakehouse-dbt-pipeline) | Medallion architecture (bronze→silver→gold) on S3 + Apache Iceberg with full CI/CD | `dbt` `Iceberg` `S3` `Terraform` |
-| [clustering-guided-oversampling](https://github.com/YOUR_USERNAME/clustering-guided-oversampling) | DEXA 2026 paper implementation — cluster-guided synthetic sample generation for imbalanced learning | `scikit-learn` `Python` `Springer LNCS` |
+| [agentic-data-pipeline](https://github.com/dharanipriyaR24/agentic-data-pipeline) | End-to-end agentic pipeline — Bedrock + LangChain + MCP with metadata contracts for AI agents | `Bedrock` `LangChain` `Airflow` `MCP` |
+| [realtime-streaming-pipeline](https://github.com/dharanipriyaR24/realtime-streaming-pipeline) | Kafka + Spark Streaming → Snowflake with Grafana monitoring and schema registry | `Kafka` `PySpark` `Snowflake` `Docker` |
+| [biomedical-risk-pipeline](https://github.com/dharanipriyaR24/biomedical-risk-pipeline) | RNN/CNN risk prediction on biomedical data with SMOTE — trained on AWS EC2 + Jetstream2 HPC | `PyTorch` `SMOTE` `AWS EC2` |
+| [lakehouse-dbt-pipeline](https://github.com/dharanipriyaR24/lakehouse-dbt-pipeline) | Medallion architecture (bronze→silver→gold) on S3 + Apache Iceberg with full CI/CD | `dbt` `Iceberg` `S3` `Terraform` |
+| [clustering-guided-oversampling](https://github.com/dharanipriyaR24/clustering-guided-oversampling) | DEXA 2026 paper implementation — cluster-guided synthetic sample generation for imbalanced learning | `scikit-learn` `Python` `Springer LNCS` |
 
 ---
 
@@ -73,7 +73,7 @@ Graduate Research Assistant @ Seattle University · Springer LNCS & IEEE Publish
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
-| Clustering-Guided Oversampling and Geometric Validation for Imbalanced Learning | Springer LNCS · DEXA 2026 | 2026 | [Repo](https://github.com/YOUR_USERNAME/clustering-guided-oversampling) · Springer (coming Aug 2026) |
+| Clustering-Guided Oversampling and Geometric Validation for Imbalanced Learning | Springer LNCS · DEXA 2026 | 2026 | [Repo](https://github.com/dharanipriyaR24/clustering-guided-oversampling) · Springer (coming Aug 2026) |
 | Enhancing the Container Image Scanning Tool — GRYPE | IEEE International Conference | 2023 | [IEEE Xplore](https://ieeexplore.ieee.org/document/10200828) · [ResearchGate](https://www.researchgate.net/publication/372971662) |
 
 ---
@@ -90,10 +90,10 @@ Software Engineer            TechMediz                   2022 – 2023
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dravindran@seattleu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharanipriyar24)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dharanipriyar@outlook.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/372971662)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1D9E75&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=dharanipriyar24&color=1D9E75&style=flat)
 
 ---
 
