@@ -74,7 +74,7 @@ Graduate Research Assistant @ Seattle University · Springer LNCS & IEEE Publish
 ```text
 Graduate Research Assistant  Seattle University          2024 – present
 Data Engineer / AI           Fusefy (startup)            2023 – 2024
-Software Engineer            TechMediz                   2022 – 2023
+Data Engineer                TechMediz                   2022 – 2023
 ```
 
 ---
@@ -88,4 +88,4 @@ Software Engineer            TechMediz                   2022 – 2023
 
 ---
 
-*Currently seeking full-time Data Engineering roles in Seattle / Remote — feel free to reach out.*
+*Currently seeking full-time Data Engineering roles — feel free to reach out.*
